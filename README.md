@@ -12,4 +12,4 @@ git clone https://github.com/OSIRIS404A/FACEBOOK-BRUTE-OS
 
 cd FACEBOOK-BRUTE-OS
 
-python fuerza-bruta.py
+python2 fuerza-bruta.py
